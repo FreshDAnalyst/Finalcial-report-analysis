@@ -102,4 +102,16 @@ The chart shows that the product with highest sales amount is also the product w
 
 ## Conclusion 
 
-In conclusion, this project is used to show how it is easy and useful to use the 
+- 2014 has higher sales in every month the fourth quarter than 2013 except for November. There need to be a deeper dive into the data to know why
+- Product Pasoe is the most sold product in each country
+- The Government is our best customers, 50% of our profit is generate from the government purchase.
+- The United State of America recieved the highest discount. That should be due to their highest number of purchase
+- The higher the sales of a product is also equivalent to the amount of profit generated
+
+This project is to show how it is easy and useful to use the new AI embedded tool _**Analyse Data**_ fearture in the Microsoft Excel to quickly answer business questions and solve problems seemlessly.
+
+## Thank You
+
+**Abdullahi Mudathir Yusuf**
+       
+       Data Analyst
